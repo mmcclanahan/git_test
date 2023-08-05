@@ -1,5 +1,14 @@
+SAVE IT;
 command + s lets you see 
 un staged changes when youre check status
 git status to see whats changed
-git add "file"
+STAGE IT;
+
+git add "file" = waiting room
+
+COMMIT IT;
 git commit -m "message"
+
+PUSH IT;
+git push //can say git push 
+origin main to specify if sending to main
