@@ -1,0 +1,5 @@
+command + s lets you see 
+un staged changes when youre check status
+git status to see whats changed
+git add "file"
+git commit -m "message"
